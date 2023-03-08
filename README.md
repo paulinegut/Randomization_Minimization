@@ -1,5 +1,7 @@
 # Randomization_Minimization
 
+For clinical trials, with prospective randomization. Need to balance different population characterists within the different groups (blanced groups).
+
 - Minimization is a method of ensuring excellent balance between groups for several prognostic
 factors, even in small samples.
 - Minimization is a widely acceptable approach.
